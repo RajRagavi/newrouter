@@ -1,6 +1,6 @@
 import React from 'react'
 import UI from '../assets/Ui.jpg'
-import guvi from '../assets/guvi.jpg'
+import guvi from '../assets/Guvi.jpg'
 import deve from '../assets/deve.jpg'
 
 function Career() {
